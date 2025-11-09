@@ -1,0 +1,7 @@
+{
+  "name": "Dental Shade AI Analyzer",
+  "description": "An AI-powered application for dentists to analyze teeth color and shade from an image, providing detailed insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
